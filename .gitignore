@@ -1,0 +1,12 @@
+# 环境变量密钥
+.env
+
+# PyCharm 配置文件
+.idea/
+
+# Python 编译缓存
+__pycache__/
+*.pyc
+
+# Jupyter Notebook 缓存
+.ipynb_checkpoints/
